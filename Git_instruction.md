@@ -17,4 +17,4 @@
 2. Там перейти на вкладку "Pages".
 3. Изменить "Branch" на "master" и сохранить, нажав на кнопку "Save".
 4. В "Build and deployment" выбрать: "GitHub Actions" и обновить страницу.
-5. Если нет ссылки на страницу, то она выглядит так: [Просмотр_страницы_github_pages](https://arturius101.github.io/js-diplom/), где "js-diplom" - это название проекта.
+5. Если нет ссылки на страницу, то она выглядит так: [Просмотр_страницы_github_pages](https://arturius101.github.io/js-diplom/), https://arturius101.github.io/js-diplom, где "js-diplom" - это название проекта.
