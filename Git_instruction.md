@@ -1,9 +1,9 @@
 1. Создаём новый репазиторий:
     - открыть через ПКМ по папке с нужными файлами "Git Bash Here".
     - вводим команду: git init
-    - далее: git remote add origin https://github.com/Arturius101/<название репазитория>.git
     - открываем браузер, а там открываем Git.
     - создаём новый репозиторий с названием папки, таким же, как и на рабочем столе.
+    - далее: git remote add origin https://github.com/Arturius101/<название репазитория>.git (или копируем там адрес и вставляем в "Git Bash Here" после "git remote add origin").
     - далее: git add --all
     - далее: git commit -a
     - далее: git push origin --all
